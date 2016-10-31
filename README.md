@@ -1,5 +1,6 @@
 # Introduction
 Developed a webpage using HTML and CSS which describes some of the careers that you can pursue when you complete your data science degree. You can view the page [here](https://jayantsahewal.github.io/data-science-careers/){:target="_blank"}
+<a href="example.com" target="_blank">New Tab</a>
 
 # Design choices
 * I used only 3 - 4 colors (sometimes using them for the foreground and sometimes using the same color for the background to keep the focus on the content while keeping the page aesthetically pleasing.
